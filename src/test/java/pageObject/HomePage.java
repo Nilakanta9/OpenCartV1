@@ -28,6 +28,7 @@ public class HomePage extends BasePage
 	public void clickRegister()
 	{
 		lnkRegister.click();
+		System.out.print("Hello");
 	}
 
 }
